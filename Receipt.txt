@@ -1,0 +1,9 @@
+RECEIPT
+Order ID: 14
+Client ID: User{username='client', password=[c, l], role=CLIENT}
+------------
+Spicy Pickled Shallots  : 78 RON
+Smoked Caviar and Hummus on Pita Toasts  : 79 RON
+Fresh Corn Tortillas  : 79 RON
+------------
+TOTAL: 236
